@@ -6,7 +6,6 @@
  * Version:     1.0
  * Author:      Qasimmizbah
  * Author URI:  https://www.upwork.com/freelancers/~01d00918bea0f63345
- * License:     GPL-2.0+
  */
 
 
