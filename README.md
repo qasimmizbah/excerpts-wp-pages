@@ -14,6 +14,6 @@ This plugin automatically adds excerpts for Pages
 
 == Installation ==
 
-1. Upload 'excerpts-wp-pages' to the '/wp-content/plugins/' directory
+1. Upload 'excerpts-wp-pages/excerpts-wp-pages.php' to the '/wp-content/plugins/' directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Enjoy!
