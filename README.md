@@ -1,5 +1,7 @@
 # excerpts-wp-pages
 Excerpts For Wordpress pages
+
+
 Tags: pages, excerpts
 
 This plugin adds excerpts for Pages
